@@ -21,5 +21,5 @@ After installation, select API Level 23, 25, 27, and PlatformTool version 29 in 
 * 5 Create Project
 
 ```js
-react-native init {Project Name}
+react-native init "Project Name"
 ```
