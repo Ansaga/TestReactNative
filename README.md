@@ -16,4 +16,10 @@ https://code.visualstudio.com/docs/?dv=win
 
 https://developer.android.com/studio/?gclid=EAIaIQobChMIlti496Cb4wIVwqmWCh2D4QhiEAAYASAAEgIIXPD_BwE
 
-After installation, select API Level 23, 25, 27, and PlatformTool vsrsion 29 in SDK Tool Tab
+After installation, select API Level 23, 25, 27, and PlatformTool version 29 in SDK Tools Tab
+
+* 5 Create Project
+
+```js
+react-native init {Project Name}
+```
