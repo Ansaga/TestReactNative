@@ -3,6 +3,8 @@
 * 1 NodeJS
 https://nodejs.org/en/
 * 2 React Native
+
+[Introduction of React-Native](https://facebook.github.io/react-native/docs/getting-started.html)
 ```js
 npm install -g react-native
 npm install -g react-native-cli
