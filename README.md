@@ -1,25 +1,12 @@
 # Install
 
-* 1 NodeJS
-https://nodejs.org/en/
-* 2 React Native
 
-[Introduction of React-Native](https://facebook.github.io/react-native/docs/getting-started.html)
-```js
-npm install -g react-native
-npm install -g react-native-cli
-```
-* 3 Visual studio code
-https://code.visualstudio.com/docs/?dv=win
+* Windows
+照這頁去安裝
 
-* 4 Android studio
+https://dotblogs.com.tw/explooosion/2018/08/12/022247
 
-https://developer.android.com/studio/?gclid=EAIaIQobChMIlti496Cb4wIVwqmWCh2D4QhiEAAYASAAEgIIXPD_BwE
+* Mac
+照這頁去安裝
 
-After installation, select API Level 23, 25, 27, and PlatformTool version 29 in SDK Tools Tab
-
-* 5 Create Project
-
-```js
-react-native init "Project Name"
-```
+https://www.jianshu.com/p/a6d55f0becf5
